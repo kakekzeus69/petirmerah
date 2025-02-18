@@ -1,0 +1,70 @@
+# Compiled source code
+*.o
+*.obj
+*.exe
+*.dll
+*.so
+*.out
+*.app
+*.class
+*.pyc
+
+# Logs and temporary files
+*.log
+*.tmp
+*.swp
+*~
+.cache
+.DS_Store
+Thumbs.db
+
+# Package managers
+node_modules/
+vendor/
+.venv/
+__pycache__/
+.gradle
+.idea/
+.vscode/
+*.iml
+
+# OS-specific files
+.AppleDouble
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Desktop.ini
+
+# Sensitive information
+config.ini
+.env
+*.pem
+*.key
+*.json
+
+# IDE/Editor files
+.idea/
+.vscode/
+*.suo
+*.user
+
+# Deployment files
+.env.production
+config/deploy.rb
+
+# Docker
+.dockerignore
+
+# Other files
+*.bak
+*.dump
+*.gz
+*.zip
+*.rar
+*.tar
+
+# Kakek Zeus69 specific
+images/generated/
+videos/temp/
+data/
+local_config.ini
